@@ -8,4 +8,6 @@ What I have found is that the spread of votes approving nominees for these posit
 
 Ultimately, more information is needed here to be more confident in the reasons behind the voting pattern we're seeing. While increased partisanship may be a factor, it very likely is not the only one. This sort of analysis can be susceptible to distortion, either due to numbers of votes in different administrations, circumstances or eras, or maybe due to treating a discrete variable (Executive power or Exec/Senate combo) as continuous. Which suggests another variable or possible filter: looking only at new administrations or only at post-election replacements (whether new or second term). This quickly turns into a study of what to isolate for analysis, which is part of what makes it interesting.
 
+Check out CabinetAppointments.ipynb for my code and some graphed data, output.csv and PartyBreakdown.csv for my raw data.
+
 Thoughts? Comments? Questions? Concerns? Feel free to reach out and discuss!
