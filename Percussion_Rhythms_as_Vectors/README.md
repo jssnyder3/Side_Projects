@@ -1,4 +1,4 @@
-Comparing Drum Rhythms as Vectors
+# Comparing Drum Rhythms as Vectors
 
 Lately I've been toying around with the idea of comparing drum styles mathematically. For example, I've been considering whether we can mathematically calculate how Ringo Starr's drumming with the Beatles changed over the course of the 1960's. How does my own drumming style compare to those of my influences? How does my style change between different projects I play in?
 
