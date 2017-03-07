@@ -8,6 +8,11 @@ This is a first step in doing so.
 
 As a drummer, I typically learn challenging rhythms by inputting the them into a drum machine and then playing them back, allowing me to both see and hear the rhythm and then translate that into physical movements with my hands and feet. The interface for my drum machine is a grid, with each column serving as a subdivision of time and each row serving as a different sound (kick, snare, hihat, cymbal, etc.). I realized that this grid, in its simplest form, looks very much like a matrix with 1's where a sound is activated (drum is hit) or 0 where there is a rest (or no action). Once these patterns are in matrix form, we can measure similarity between patterns by calculating the distances between them.
 
-This workbook is an initial attempt to test the approach of calculating the similarity between drum patterns mathematically, using simple one-instrument patterns as a test case. I found a series of Afro-Cuban bell patterns on a Wikipedia page (https://en.wikipedia.org/wiki/Bell_pattern), translated the bell patterns into one-dimensional matrices (i.e. vectors), and then calculated the Euclidean distance between each vector to compare their similarity.
+This assortment of workbooks is an initial attempt to test the approach of calculating the similarity (i.e. Euclidean distance) between drum patterns mathematically, initially using simple one-instrument patterns as a test case and then growing the approach to assessing multi-layered patterns and additional complexities of rhythms.
+
+Notebooks fall in the following order:
+
+- 1_Afro Cuban Bell Patterns
+- 2_Multi-Instrumental_Patterns
 
 This is a work in progress, so I welcome any feedback, ideas, criticisms, etc.! A few next steps I'm considering are towards the end of the Jupyter notebook.
