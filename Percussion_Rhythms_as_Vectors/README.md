@@ -14,5 +14,6 @@ Notebooks fall in the following order:
 
 - 1_Afro Cuban Bell Patterns
 - 2_Multi-Instrumental_Patterns
+- 3_Ghost_Notes
 
 This is a work in progress, so I welcome any feedback, ideas, criticisms, etc.! A few next steps I'm considering are towards the end of the Jupyter notebook.
